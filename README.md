@@ -9,7 +9,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | Golang  
+- 💻 &nbsp; NodeJS | Golang  
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | MongoDb | Xampp
 - 🔧 &nbsp; Visual Studio code | Git
