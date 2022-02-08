@@ -3,17 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Golang Back-End Development
-- 💼 &nbsp; Junior Back-End Developer.
+- 🔭 &nbsp; I’m currently learning Back-End Development
+- 💼 &nbsp; Student.
 - ✍️ &nbsp; Taekwondo as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS
+- 💻 &nbsp; NodeJS | Golang
 - 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | MongoDb | Xampp
+- 🛢 &nbsp; MySQL | MongoDb
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Figma
+- 🖥 &nbsp; Figma
 
 <br>
 
