@@ -3,18 +3,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Back-End Development
-- 💼 &nbsp; Student.
+- 🔭 &nbsp; I’m currently fall in love with Tiara Lidya Christy.
+- 💼 &nbsp; Backend Developer.
 - ✍️ &nbsp; Taekwondo as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; NodeJS | Golang
-- 🌐 &nbsp; HTML | CSS | JavaScript 
-- 🛢 &nbsp; MySQL | MongoDb
-- 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Figma
-
+- 🛢 &nbsp; SQL | NoSQL
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=refaldyrk&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="refaldyrk's Github Stats">
