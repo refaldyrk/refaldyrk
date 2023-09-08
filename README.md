@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Refaldy. 👋</h2>
+<h2 align="center"> Hey there! I'm Refaldy. 👋</h2>
 <img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/1.gif" width="1000"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
