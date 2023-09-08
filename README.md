@@ -22,11 +22,11 @@
 
 ## Github Stats
 
-<p align = "center">
+<p align = "right">
   <img src = "https://github-readme-stats.vercel.app/api?username=refaldyrk&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
 </p>
   
-<p align="center" style="margin-bottom: 10px;">
+<p align="right" style="margin-bottom: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=refaldyrk&column=7&theme=light"/>
 </p>
 </p>
