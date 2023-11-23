@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; NodeJS | Golang
+- 💻 &nbsp; Golang | Rust | Typescript/Javascript | NodeJS & Bun | C# | .NET / ASP.NET
 - 🛢 &nbsp; SQL | NoSQL
 <br>
 
