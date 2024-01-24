@@ -2,13 +2,13 @@
 <img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/1.gif" width="1000"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Pacarnya%20Tiara&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Backend%20Developer&center=true&width=380&height=45">
   </a>
 </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently fall in love with Tiara Lidya Christy.
+- 🔭 &nbsp; I’m currently fall in love with Meyyyyy💗💗.
 - 💼 &nbsp; Backend Developer.
 - ✍️ &nbsp; Taekwondo as hobbies/side hustles.
 
