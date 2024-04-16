@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently fall in love with Najwa.
+- 🔭 &nbsp; I’m currently fall in love with Someone.
 - 💼 &nbsp; Backend Developer.
 - ✍️ &nbsp; Martial art as hobbies/side hustles.
 
