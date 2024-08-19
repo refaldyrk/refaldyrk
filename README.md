@@ -7,8 +7,11 @@
 </p>
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 💼 &nbsp; Fall In Love W Andin.
+
+- 💖 &nbsp; Fall In Love W Andin.
+
 - 💼 &nbsp; Backend Developer.
+
 - ✍️ &nbsp; Martial art as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
